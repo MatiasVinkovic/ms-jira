@@ -19,8 +19,7 @@ public class RestaurantApp {
 
         // Je créer 2 acteurs dans mon microservice, qui vont communiquer entre eux (communication local)
         ActorRef tom = system.createActor(RestaurantActor.class, "tom");
-        ActorRef matias  = system.createActor(RestaurantActor.class, "matias");
-        matias.tell(new OrderRequest("Pâtes Carbonara", "Léa"));
+
 
 
 
