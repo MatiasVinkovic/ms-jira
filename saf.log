@@ -32,3 +32,12 @@
 [2025-12-24 22:18:25] [INFO] [jira-manager] RECEIVE -> Processing message: CreateTicketRequest
 [2025-12-24 22:18:25] [INFO] [jira-manager] RECEIVE -> Processing message: CreateTicketRequest
 [2025-12-24 22:18:25] [INFO] [jira-manager] RECEIVE -> Processing message: CreateTicketRequest
+[2025-12-25 18:12:49] [INFO] [jira-manager] BORN -> Actor created successfully 
+[2025-12-26 14:41:43] [INFO] [jira-manager] RECEIVE -> Processing message: CreateTicketRequest
+[2025-12-26 14:41:43] [INFO] [REPARATEUR-1] BORN -> Actor created successfully 
+[2025-12-26 14:41:43] [INFO] [jira-manager] RECEIVE -> Processing message: CreateTicketRequest
+[2025-12-26 14:41:43] [INFO] [REPARATEUR-2] BORN -> Actor created successfully 
+[2025-12-26 14:41:45] [INFO] [jira-manager] RECEIVE -> Processing message: CreateTicketRequest
+[2025-12-26 14:41:45] [INFO] [REPARATEUR-3] BORN -> Actor created successfully 
+[2025-12-26 14:41:45] [INFO] [jira-manager] RECEIVE -> Processing message: CreateTicketRequest
+[2025-12-26 14:41:45] [INFO] [REPARATEUR-4] BORN -> Actor created successfully 
